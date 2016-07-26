@@ -1,3 +1,3 @@
 FROM busybox
 
-COPY incyyte.war /usr/local/tomcat/webapps/
+COPY D:\docker\proj1\incyyte.war /usr/local/tomcat/webapps/
